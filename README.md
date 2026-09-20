@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,14,18&text=SAURABH%20KORI&fontColor=00FF88&fontSize=48&fontAlignY=38&desc=CYBERSECURITY%20%7C%20RED%20TEAMING%20%7C%20SECURITY%20ENGINEERING&descAlignY=62&descSize=15" width="100%" alt="Saurabh Kori"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,14,18&text=SAURABH%20KORI&fontColor=00FF88&fontSize=78&fontAlignY=38&desc=CYBERSECURITY%20%7C%20RED%20TEAMING%20%7C%20SECURITY%20ENGINEERING&descAlignY=62&descSize=15" width="100%" alt="Saurabh Kori"/>
 
 <a href="https://github.com/saurabh9555-k">
 <img src="https://img.shields.io/badge/GitHub-saurabh9555--k-0d1117?style=for-the-badge&logo=github&logoColor=00FF88" alt="GitHub"/>
