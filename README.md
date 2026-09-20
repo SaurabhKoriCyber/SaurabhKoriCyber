@@ -1,35 +1,253 @@
-<h1 align="center">Hi 👋, I'm Saurabh Kori</h1>
-<h3 align="center">A passionate Cybersecurity Student from India</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhkoricyber" alt="saurabhkoricyber" /></a> </p>
+# `SAURABH KORI`
 
-- 🔭 I’m currently working on [Nullsec](https://github.com/SaurabhKoriCyber/Nullsec.git)
+### `CYBERSECURITY • RED TEAMING • DEVELOPMENT`
 
-- 🌱 I’m currently learning **B.Voc (Bachelor of Vocation) in Cyber Security**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=%3E+initializing+security_profile...;%3E+cybersecurity+aspirant;%3E+exploring+offensive+security;%3E+building+%7C+breaking+%7C+securing;%3E+always+learning." alt="Typing animation" />
 
-- 👯 I’m looking to collaborate on [Nullsec](https://github.com/SaurabhKoriCyber/Nullsec.git)
+<br>
 
-- 🤝 I’m looking for help with [Nexus](https://github.com/SaurabhKoriCyber/Nexus.git)
+<a href="https://www.linkedin.com/in/saurabh-kori-692931331/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/saurabh9555-k">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=00FF88" alt="GitHub"/>
+</a>
 
-- 👨‍💻 All of my projects are available at [https://saurabhkoricyber.github.io/Portfolio.25/](https://saurabhkoricyber.github.io/Portfolio.25/)
+</div>
 
-- 💬 Ask me about **Cybersecurity Pentesting hacking**
+---
 
-- 📫 How to reach me **saurabhgytsdk@gmail.com**
+## `whoami`
 
-- 📄 Know about my experiences [https://github.com/user-attachments/files/32430457/sk.res.no.P_compressed.pdf](https://github.com/user-attachments/files/32430457/sk.res.no.P_compressed.pdf)
+```bash
+┌──[saurabh@github]─[~]
+└─$ whoami
 
-- ⚡ Fun fact **Even I dont know**
+Cybersecurity Aspirant | Computer Engineering Student
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saurabh-kori-692931331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh-kori-692931331" height="30" width="40" /></a>
-<a href="https://fb.com/saurabh_k_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saurabh_k_k" height="30" width="40" /></a>
-<a href="https://instagram.com/saurabh_k_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saurabh_k_k" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@saurabhvlogs081" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@saurabhvlogs081" height="30" width="40" /></a>
+┌──[saurabh@github]─[~]
+└─$ cat profile.txt
+
+> Interested in Cybersecurity, Red Teaming & Ethical Hacking
+> Building practical software and security-focused projects
+> Exploring Web Security, Network Security & Security Automation
+> Currently strengthening my foundations in Linux, Python & offensive security
+```
+
+I'm a **Computer Engineering student and cybersecurity enthusiast** focused on developing practical technical skills and building real-world projects.
+
+My long-term goal is to build a career in **Cybersecurity**, with a strong interest in **offensive security and Red Teaming**.
+
+I enjoy understanding how systems work, identifying weaknesses, building tools, and learning how to make applications and infrastructure more secure.
+
+---
+
+## `focus`
+
+<table>
+<tr>
+<td align="center">🔴<br><b>RED TEAMING</b></td>
+<td align="center">🌐<br><b>WEB SECURITY</b></td>
+<td align="center">🛡️<br><b>CYBERSECURITY</b></td>
+<td align="center">🐧<br><b>LINUX</b></td>
+</tr>
+<tr>
+<td align="center">🎯<br><b>ETHICAL HACKING</b></td>
+<td align="center">🌐<br><b>NETWORK SECURITY</b></td>
+<td align="center">🐍<br><b>SECURITY AUTOMATION</b></td>
+<td align="center">🧪<br><b>CTF / LABS</b></td>
+</tr>
+</table>
+
+---
+
+## `tech_stack`
+
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java" alt="Programming languages"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+### Web & Application Development
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhkoricyber&show_icons=true&locale=en" alt="saurabhkoricyber" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,flutter,dart" alt="Web and application technologies"/>
+</p>
+
+### Tools & Environment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux,bash,firebase" alt="Tools"/>
+</p>
+
+---
+
+## `security_mindset`
+
+```text
+                    ┌──────────────────────┐
+                    │      TARGET          │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │   RECONNAISSANCE     │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │   ENUMERATION        │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │   VULNERABILITY      │
+                    │   ANALYSIS           │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │   EXPLOITATION       │
+                    │   LAB / AUTHORIZED    │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │   DOCUMENTATION      │
+                    └──────────────────────┘
+```
+
+> **Learn how systems fail → understand why → build better defenses.**
+
+---
+
+## `featured_projects`
+
+### 🛡️ AI Ration Mitra
+
+A digital public distribution system concept focused on improving transparency, accessibility and usability in ration distribution.
+
+**Stack:** `Flutter` `Dart` `Firebase` `AI/ML`
+
+---
+
+### 🚆 Smart Railway Guide
+
+An accessibility-focused application concept designed to assist visually impaired passengers with railway navigation using AI, computer vision, location and voice guidance.
+
+**Stack:** `Flutter` `AI` `Computer Vision` `TTS`
+
+---
+
+### 🔐 Nexus
+
+A private digital platform concept focused on secure communication, shared memories and interactive experiences.
+
+**Stack:** `Flutter` `Dart` `Firebase`
+
+---
+
+## `currently_learning`
+
+```text
+[■■■■■■■■░░] Linux & Command Line
+[■■■■■■░░░░] Networking Fundamentals
+[■■■■■■░░░░] Web Application Security
+[■■■■■░░░░░] Python for Security
+[■■■■░░░░░░] Penetration Testing
+[■■■░░░░░░░] Red Team Methodology
+```
+
+> Progress is continuous. These indicators represent learning focus, not certifications or professional experience.
+
+---
+
+## `github_stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=saurabh9555-k&show_icons=true&hide_border=true&theme=transparent&title_color=00FF88&icon_color=00FF88&text_color=E6EDF3&bg_color=00000000" height="165" alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh9555-k&layout=compact&hide_border=true&theme=transparent&title_color=00FF88&text_color=E6EDF3&bg_color=00000000" height="165" alt="Top languages"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=saurabh9555-k&theme=transparent&hide_border=true&ring=00FF88&fire=FF3B3B&currStreakLabel=00FF88&sideLabels=E6EDF3&dates=8B949E" alt="GitHub streak"/>
+
+</div>
+
+---
+
+## `activity`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabh9555-k&bg_color=00000000&color=00FF88&line=00FF88&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph"/>
+
+</div>
+
+---
+
+## `roadmap`
+
+```text
+CYBERSECURITY ROADMAP
+──────────────────────────────────────────────
+
+01  Linux & Networking
+    └── Fundamentals • TCP/IP • DNS • HTTP
+
+02  Web Security
+    └── OWASP • Authentication • APIs • Vulnerabilities
+
+03  Ethical Hacking
+    └── Recon • Enumeration • Vulnerability Assessment
+
+04  Penetration Testing
+    └── Web • Network • Systems • Reporting
+
+05  Security Automation
+    └── Python • Bash • APIs • Tooling
+
+06  Red Teaming
+    └── Adversary Simulation • OPSEC • Detection Awareness
+```
+
+---
+
+## `connect`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/saurabh-kori-692931331/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+
+<a href="https://github.com/saurabh9555-k">
+<img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=00FF88" alt="Follow on GitHub"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+> keep_learning()
+> keep_building()
+> keep_testing()
+> think_like_an_attacker()
+> defend_like_an_engineer()
+```
+
+### `01% better every day.`
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=saurabh9555-k&style=flat-square&color=00FF88&label=PROFILE+VIEWS" alt="Profile views"/>
+
+</div>
